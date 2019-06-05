@@ -1,0 +1,15 @@
+{
+  "name": "weather-app-node-send",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.5.0",
+    "querystring": "^0.2.0"
+  }
+}
